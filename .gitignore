@@ -1,0 +1,24 @@
+# --- Quantum ESPRESSO Temporary Files ---
+*.save/
+*.tmp/
+
+# Individual large data files
+*.wfc*
+*.mix*
+*.igk*
+*.rho*
+*.hub*
+
+# --- Output and Logs --
+# We keep .out and .dos files usually, but ignore crashed restart files
+*.crash
+
+# --- OS/Environment Junk ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- Python/Scripting Junk ---
+__pycache__/
+*.pyc
