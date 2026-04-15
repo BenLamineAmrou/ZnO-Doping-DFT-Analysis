@@ -1,24 +1,24 @@
 # --- Quantum ESPRESSO Temporary Files ---
 *.save/
 *.tmp/
-
-# Individual large data files
 *.wfc*
 *.mix*
 *.igk*
 *.rho*
 *.hub*
 
-# --- Output and Logs --
-# We keep .out and .dos files usually, but ignore crashed restart files
+# --- Output and Logs ---
 *.crash
+# --- Project Drafts ---
+draft
+draft.txt
 
 # --- OS/Environment Junk ---
-.DS_Store
 Thumbs.db
-.vscode/
-.idea/
+desktop.ini
+# These appear because you are using WSL
+*.Zone.Identifier
 
-# --- Python/Scripting Junk ---
-__pycache__/
-*.pyc
+# --- Folder markers ---
+# This allows you to push empty folders to GitHub
+!*/.gitkeep
