@@ -1,0 +1,31 @@
+&CONTROL
+  calculation = 'vc-relax',
+  prefix = 'zno_prim',
+  outdir = './tmp/',
+  pseudo_dir = '../pseudo/',
+  forc_conv_thr = 1.0d-3
+/
+&SYSTEM
+  ibrav = 4, 
+  A = 3.25, C = 5.20,
+  nat = 4, ntyp = 2,
+  ecutwfc = 40.0,
+  ecutrho = 320.0,
+/
+&ELECTRONS
+  conv_thr = 1.0d-8
+/
+&IONS
+/
+&CELL
+/
+ATOMIC_SPECIES
+  Zn  65.38  Zn.UPF
+  O   15.99  O.UPF
+ATOMIC_POSITIONS (crystal)
+  Zn 0.333333 0.666667 0.000000
+  Zn 0.666667 0.333333 0.500000
+  O  0.333333 0.666667 0.382000
+  O  0.666667 0.333333 0.882000
+K_POINTS (automatic)
+  6 6 4 0 0 0

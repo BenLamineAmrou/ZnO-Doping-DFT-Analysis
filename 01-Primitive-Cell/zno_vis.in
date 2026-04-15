@@ -1,0 +1,13 @@
+&INPUTPP
+  prefix = 'zno_prim',
+  outdir = './tmp/',
+  plot_num = 0,
+/
+&PLOT
+  nfile = 1,
+  filepp(1) = 'zno_prim',
+  weight(1) = 1.0,
+  iflag = 3,
+  output_format = 5,
+  fileout = 'zno_structure.xsf'
+/
