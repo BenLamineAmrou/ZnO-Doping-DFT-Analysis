@@ -1,0 +1,22 @@
+==========================================================
+   ZnO GAS SENSOR SIMULATION - PROJECT SUMMARY REPORT
+   Student: Amrou Mustapha Ben Lamine | Group: IIA3 G12
+   Date: Wed Apr 15 16:55:52 CET 2026
+==========================================================
+
+PHASE 1: PRIMITIVE CELL CALIBRATION
+----------------------------------------------------------
+Lattice Constant (a): 3.2499 Angstrom
+Total Energy (4 atoms): -361.62631527 Ry
+Fermi Energy (E_f): 7.124 eV
+
+PHASE 2: 32-ATOM PURE SUPERCELL BASELINE
+----------------------------------------------------------
+Total Energy (32 atoms): -2892.42020310 Ry
+Scaled Energy (per unit): -361.552525 Ry
+Fermi Energy (E_f): 10.140 eV
+Stability Deviation: .07379027 Ry (Valid < 0.1)
+
+==========================================================
+STATUS: BASELINE ESTABLISHED. READY FOR PHASE 3 (DOPING).
+==========================================================

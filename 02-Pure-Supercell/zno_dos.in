@@ -1,0 +1,8 @@
+&DOS
+    prefix   = 'zno_pure_32'
+    outdir   = './tmp/'
+    fildos   = 'zno_super.dos'
+    emin     = -10.0
+    emax     = 25.0
+    deltaE   = 0.05
+ /
