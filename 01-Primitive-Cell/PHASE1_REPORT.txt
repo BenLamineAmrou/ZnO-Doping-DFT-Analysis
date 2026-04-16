@@ -1,0 +1,5 @@
+PHASE 1: PRIMITIVE CELL CALIBRATION
+-----------------------------------
+Lattice Constant (a): 3.2499 Angstrom
+Total Energy (4 atoms): -361.62631527 Ry
+Fermi Energy (E_f): 7.124 eV
