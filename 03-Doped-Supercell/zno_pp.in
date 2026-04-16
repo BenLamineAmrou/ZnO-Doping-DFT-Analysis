@@ -1,0 +1,14 @@
+&INPUTPP
+    prefix  = 'zno_doped'
+    outdir  = './tmp/'
+    filplot = 'zno_doped_density'
+    plot_num= 0
+ /
+ &PLOT
+    nfile = 1
+    filepp(1) = 'zno_doped_density'
+    weight(1) = 1.0
+    iflag = 3
+    output_format = 5
+    fileout = 'zno_doped.xsf'
+ /

@@ -1,0 +1,8 @@
+&DOS
+    prefix   = 'zno_doped'
+    outdir   = './tmp/'
+    fildos   = 'zno_doped.dos'
+    emin     = -5.0
+    emax     = 20.0
+    deltaE   = 0.01
+ /

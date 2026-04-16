@@ -1,0 +1,51 @@
+
+     Program POST-PROC v.6.7MaX starts on 16Apr2026 at 20:45: 6 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on     1 processors
+
+     MPI processes distributed on     1 nodes
+
+     Reading xml data from directory:
+
+     ./tmp/zno_doped.save/
+     file Zn.UPF: wavefunction(s)  3D renormalized
+     file Ca.UPF: wavefunction(s)  3S renormalized
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+
+     G-vector sticks info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Sum        3331    1663    463               250955    88801   12947
+
+
+     Check: negative core charge=   -0.000002
+
+     Calling punch_plot, plot_num =   0
+     Writing data to file  zno_doped_density
+     Reading data from file  zno_doped_density
+
+     Writing data to be plotted to file zno_doped.xsf
+     Plot Type: 3D                     Output format: XCrySDen     
+
+     POST-PROC    :      3.63s CPU      4.71s WALL
+
+
+   This run was terminated on:  20:45:10  16Apr2026            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

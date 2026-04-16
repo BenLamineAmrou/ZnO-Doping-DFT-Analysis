@@ -1,0 +1,4 @@
+PHASE 3: CALCIUM DOPED SUPERCELL
+Total Energy (Doped): -2878.27803482 Ry
+Fermi Energy (Doped): 7.731 eV
+Fermi Shift (Delta Ef): -2.409 eV
