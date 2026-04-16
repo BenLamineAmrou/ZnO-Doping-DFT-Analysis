@@ -1,0 +1,16 @@
+==============================================================================
+   MASTER SUMMARY - Student: Amrou Mustapha Ben Lamine - Nour Elhouda Latrech
+==============================================================================
+
+PHASE 1: PRIMITIVE CELL
+Total Energy: -361.62631527 Ry
+Fermi Energy: 7.124 eV
+
+PHASE 2: 32-ATOM PURE SUPERCELL
+Total Energy: -2892.42020310 Ry
+Fermi Energy: 10.140 eV
+
+PHASE 3: CALCIUM DOPED SUPERCELL
+Total Energy (Doped): -2878.27803482 Ry
+Fermi Energy (Doped): 7.731 eV
+Fermi Shift (Delta Ef): -2.409 eV
