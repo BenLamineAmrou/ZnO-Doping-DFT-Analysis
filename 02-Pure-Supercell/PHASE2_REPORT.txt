@@ -1,0 +1,6 @@
+PHASE 2: 32-ATOM PURE SUPERCELL BASELINE
+----------------------------------------
+Total Energy (32 atoms): -2892.42020310 Ry
+Scaled Energy (per unit): -361.552525 Ry
+Stability Deviation from Phase 1: .07379027 Ry
+Fermi Energy (E_f): 10.140 eV
