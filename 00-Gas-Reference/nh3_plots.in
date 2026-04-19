@@ -1,0 +1,14 @@
+&INPUTPP
+    prefix  = 'nh3_ref'
+    outdir  = './tmp/'
+    filplot = 'nh3_density'
+    plot_num = 0              ! 0 = Electron Density
+/
+&PLOT
+    nfile = 1
+    filepp(1) = 'nh3_density'
+    weight(1) = 1.0
+    iflag = 3                 ! 3D Plot
+    output_format = 5         ! 5 = XSF format for VESTA
+    fileout = 'nh3_vacuum.xsf'
+/

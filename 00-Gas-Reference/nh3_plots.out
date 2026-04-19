@@ -1,0 +1,51 @@
+
+     Program POST-PROC v.6.7MaX starts on 19Apr2026 at 13:46:20 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Parallel version (MPI), running on     1 processors
+
+     MPI processes distributed on     1 nodes
+
+     Reading xml data from directory:
+
+     ./tmp/nh3_ref.save/
+ end of file reached, closing tag not found
+     file H.UPF: wavefunction(s)  1S renormalized
+
+     IMPORTANT: XC functional enforced from input :
+     Exchange-correlation= PBE
+                           (   1   4   3   4   0   0   0)
+     Any further DFT definition will be discarded
+     Please, verify this is what you really want
+
+
+     G-vector sticks info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Sum       13109    6549   1633              1126173   398135   49557
+
+
+     negative rho (up, down):  1.572E-03 0.000E+00
+
+     Calling punch_plot, plot_num =   0
+     Writing data to file  nh3_density
+     Reading data from file  nh3_density
+
+     Writing data to be plotted to file nh3_vacuum.xsf
+     Plot Type: 3D                     Output format: XCrySDen     
+
+     POST-PROC    :      3.26s CPU      4.07s WALL
+
+
+   This run was terminated on:  13:46:24  19Apr2026            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

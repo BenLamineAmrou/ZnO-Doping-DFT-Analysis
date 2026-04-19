@@ -1,0 +1,14 @@
+=== AMMONIA (NH3) VACUUM REFERENCE DATA ===
+Project: ZnO Gas Sensor IIA3 - Phase 0
+Date: Sun Apr 19 13:55:15 CET 2026
+------------------------------------------
+Total Energy (E_gas): -24.03412241 Ry
+
+Final Optimized Atomic Positions (Angstrom):
+ATOMIC_POSITIONS (angstrom)
+N             5.9999812618        5.9999998854        5.9949873341
+H             6.9465395707        6.0000001958        6.3816747473
+H             5.5267396233        6.8197229888        6.3816687692
+H             5.5267395443        5.1802769300        6.3816691495
+------------------------------------------
+Status: SUCCESS - Ready for Adsorption Phase
